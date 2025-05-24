@@ -1,3 +1,6 @@
 # CodingTest-Javascript
 
-프로그래머스 javascript 문제를 해결한 Repository
+javascript 코딩테스트 문제를 해결한 Repository
+
+백준
+프로그래머스
